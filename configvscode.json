@@ -1,0 +1,18 @@
+#the vscode configs I use, just to whenever i switch Os or pc I just ctrl + c ctrl + v on this.
+
+{
+    "workbench.statusBar.visible": true,
+    "editor.minimap.autohide": true,
+    "editor.fontSize": 13,
+    "editor.fontWeight": "900",
+    "editor.letterSpacing": 1.5,
+    "workbench.activityBar.location": "hidden",
+    "workbench.colorTheme": "Ambiance [beta]",
+    "workbench.iconTheme": "symbols",
+    "editor.linkedEditing": true,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "cmake.showOptionsMovedNotification": false,
+    "workbench.panel.showLabels": false,
+    "explorer.confirmDragAndDrop": false,
+}
