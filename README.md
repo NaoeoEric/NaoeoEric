@@ -12,11 +12,11 @@
 
 ## 🌟 Habilidades 🇧🇷  /  Skills  🇺🇸
 
-- 💻 **Linguagens de programação / Programming languages**:  
-  - Python, C++, javascript.
+- 💻 **Linguagens de programação / marcação / Programming languages / markup**:  
+  - Python, C++, javascript html/css.
 
 - 🛠️ **Ferramentas e Tecnologias / Tools and Technologies**:  
-  - Git, Visual Studio, Linux.  
+  - Git/Github, Json, Linux terminal, VsCode 
 
 ---
 
